@@ -1,2 +1,4 @@
-# neseos-end-of-suppor
-In this GitHub Repository, we're showing Nese-Based operating systems lifecycle to get notify end of support
+# Nese 7 (24W0)
+Start date: February 7, 2024
+
+End of support: January 13, 2025
