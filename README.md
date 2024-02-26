@@ -6,7 +6,7 @@ End of support: February 8, 2024
 # Nese Vista (24U2)
 Start date: February 25, 2024
 
-End of support: May 4, 2025)
+End of support: May 4, 2025
 
 # Nese 7 (24W0)
 Start date: February 7, 2024
