@@ -33,3 +33,11 @@ End of support: January 31, 2025
 Start date: March 8, 2024
 
 End of support: March 14, 2025
+
+
+# Nese 7 (25W1)
+Start date: March 15, 2024
+
+End of support: March 31, 2025
+
+
