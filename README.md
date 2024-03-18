@@ -3,6 +3,11 @@ Start date: February 5, 2024
 
 End of support: February 8, 2024
 
+# Nese Server 2003 (24H2)
+Start date: March 18, 2024
+
+End of support: April 18, 2024
+
 # Nese Vista (24U2)
 Start date: February 25, 2024
 
