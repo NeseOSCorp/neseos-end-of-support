@@ -3,6 +3,11 @@ Start date: February 5, 2024
 
 End of support: February 8, 2024
 
+# Nese XP Home Edition (26H2)
+Start date: April 3, 2024
+
+End of support: April 8, 2024
+
 # Nese Server 2003 (24H2)
 Start date: March 18, 2024
 
