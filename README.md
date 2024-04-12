@@ -78,5 +78,7 @@ End of support: February 22, 2025
 # Nese 10 (BETA) 
 Start date: April 10, 2024 
 
+End of mainstream support on BETA: October 20, 2025
+
 End of BETA support: March 29, 2026
 
