@@ -18,6 +18,11 @@ Start date: March 18, 2024
 
 End of support: April 18, 2024
 
+# Nese Vista (24U1) (x86)
+Start date: April 22, 2024
+
+End of support: June 14, 2025
+
 # Nese Vista (24U2)
 Start date: February 25, 2024
 
