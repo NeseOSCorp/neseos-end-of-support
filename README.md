@@ -87,3 +87,10 @@ End of mainstream support on BETA: October 20, 2025
 
 End of BETA support: March 29, 2026
 
+# Nese Server 2025 (BETA) 
+Start date: Soon 
+
+End of mainstream support on BETA: October 31, 2025
+
+End of BETA support: March 30, 2026
+
