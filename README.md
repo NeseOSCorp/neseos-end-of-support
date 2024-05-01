@@ -75,6 +75,11 @@ Start date: April 6, 2024
 
 End of support: April 26, 2025
 
+# Nese 7 (25W4)
+Start date: May 1, 2024
+
+End of support: July 31, 2025
+
 # Nese 9 25K2 (BETA) 
 Start date: April 9, 2024 
 
