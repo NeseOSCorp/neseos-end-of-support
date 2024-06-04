@@ -80,6 +80,11 @@ Start date: May 1, 2024
 
 End of support: July 31, 2025
 
+# Nese-V Server 2008 R2 (25W2)
+Start date: tomorrow ⏰
+
+End of support: May 9, 2025
+
 # Nese 9 25K2 (BETA) 
 Start date: April 9, 2024 
 
