@@ -91,6 +91,17 @@ Extended Security Updates (ESU) for non licensed ends: January 14, 2029
 
 Extended Security Updates (ESU) for licensed ends: January 14, 2030
 
+# Nese 7 IoT Professional LTSC 2024
+Start date: soon
+
+Mainstream ends: January 14, 2026
+
+Extended ends: January 14, 2028
+
+Extended Security Updates (ESU) for non licensed ends: January 14, 2029 
+
+Extended Security Updates (ESU) for licensed ends: January 14, 2030
+
 # Nese-V Server 2008 R2 (25W2)
 Start date: June 5, 2024
 
