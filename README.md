@@ -80,6 +80,17 @@ Start date: May 1, 2024
 
 End of support: July 31, 2025
 
+# Nese 7 IoT Enterprise LTSC 2024
+Start date: soon
+
+Mainstream ends: January 14, 2026
+
+Extended ends: January 14, 2028
+
+Extended Security Updates (ESU) for non licensed ends: January 14, 2029 
+
+Extended Security Updates (ESU) for licensed ends: January 14, 2030
+
 # Nese-V Server 2008 R2 (25W2)
 Start date: June 5, 2024
 
