@@ -80,6 +80,11 @@ Start date: May 1, 2024
 
 End of support: July 31, 2025
 
+# Nese 7 (25W5)
+Start date: June 26, 2024
+
+End of support: August 14, 2025
+
 # Nese 7 IoT Enterprise LTSC 2024
 Start date: soon
 
