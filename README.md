@@ -19,6 +19,13 @@ End of support: April 20, 2024 (Ended)
 
 _______________________________________
 
+# Nese XP (24H8) (Final ESU) (Discord support)
+Start date: July 3, 2024
+
+End of support: July 14, 2024
+
+_______________________________________
+
 # Nese Server 2003 (24H2)
 Start date: March 18, 2024
 
