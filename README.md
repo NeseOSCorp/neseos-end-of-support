@@ -188,6 +188,6 @@ Start date: April 27, 2024
 
 End of mainstream support on BETA: October 31, 2025
 
-_______________________________________
 End of BETA support: March 30, 2026
 
+_______________________________________
