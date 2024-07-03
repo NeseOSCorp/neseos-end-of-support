@@ -47,48 +47,65 @@ End of support: January 14, 2025
 # Nese 7 (24W4)
 Start date: February 21, 2024
 
-End of support: January 29, 2025
+End of support: January 29, 2025 
+
+_______________________________________
 
 # Nese 7 (24W4 Update 1)
 Start date: February 23, 2024
 
 End of support: January 31, 2025
 
+_______________________________________
+
 # Nese 7 (25W0)
 Start date: March 8, 2024
 
-End of support: March 14, 2025
+End of support: March 14, 2025         
 
+_______________________________________
 
 # Nese 7 (25W1)
 Start date: March 15, 2024
 
 End of support: March 31, 2025
 
+_______________________________________
+
 # Nese 7 (25W2) (BETA)
 Start date: March 27, 2024
 
 End of support: February 20, 2025
+
+_______________________________________
 
 # Nese 7 (25W2)
 Start date: April 5, 2024
 
 End of support: April 16, 2025
 
+_______________________________________
+
 # Nese 7 (25W3)
 Start date: April 6, 2024
 
 End of support: April 26, 2025
+
+_______________________________________
 
 # Nese 7 (25W4)
 Start date: May 1, 2024
 
 End of support: July 31, 2025
 
+_______________________________________
+
 # Nese 7 (25W5)
 Start date: June 26, 2024
 
 End of support: August 14, 2025
+
+_______________________________________
 
 # Nese 7 IoT Enterprise LTSC 2024
 Start date: soon
@@ -100,6 +117,8 @@ Extended ends: January 14, 2028
 Extended Security Updates (ESU) for non licensed ends: January 14, 2029 
 
 Extended Security Updates (ESU) for licensed ends: January 14, 2030
+
+_______________________________________
 
 # Nese 7 IoT Professional LTSC 2024
 Start date: soon
@@ -119,9 +138,7 @@ Start date: June 5, 2024
 
 Mainstream ends: January 14, 2026
 
-Extended ends: January 14, 2028
-
-Extended Security Updates (ESU) for non licensed ends: January 14, 2029 
+Extended ends: January 14, 2028        
 
 _______________________________________
 
