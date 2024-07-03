@@ -110,9 +110,22 @@ Extended ends: January 14, 2028
 
 Extended Security Updates (ESU) for non licensed ends: January 14, 2029 
 
-Extended Security Updates (ESU) for licensed ends: January 14, 2030
+Extended Security Updates (ESU) for licensed ends: January 14, 2030        
 
-# Nese-V Server 2008 R2 (25W2)
+_______________________________________
+
+# Nese-V Server 2008 R2 
+Start date: June 5, 2024
+
+Mainstream ends: January 14, 2026
+
+Extended ends: January 14, 2028
+
+Extended Security Updates (ESU) for non licensed ends: January 14, 2029 
+
+_______________________________________
+
+# Nese-V Server 2008 R2 (25W2)         
 Start date: June 5, 2024
 
 End of support: May 9, 2025
