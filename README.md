@@ -1,4 +1,4 @@
-# Nese 2000 (25H2)
+# Nese 2000 (25H2) 
 Start date: February 5, 2024
 
 End of support: February 8, 2024
